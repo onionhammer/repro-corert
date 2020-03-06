@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <IlcOptimizationPreference>Speed</IlcOptimizationPreference>
+    <!-- <IlcOptimizationPreference>Speed</IlcOptimizationPreference> -->
   </PropertyGroup>
 
   <ItemGroup>
